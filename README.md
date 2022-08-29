@@ -2,4 +2,6 @@
 This repo contains important notebooks, data and other files for GEOS 505- Research Computing In the Earth and Environmental Sciences that I am taking this fall 2022.
 
 ## Goal
+To acquire knowledge and skills of using computing platforms, programming languages, and practises common in contemporary research to conduct data and computing-enabled research in the Earth and Environmental Sciences.
+Skills to acquire include linux computing environment, version control using git and python programming. 
 
