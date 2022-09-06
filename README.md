@@ -17,3 +17,10 @@ Unit 1 is for skill building. The goal of this unit is to build and/or refine so
 Unit 2 will focus on class climate dashboard project. The goal of this unit is to develop a minimum viable product (MVP) for a climate dashboard for Idaho. 
 
 ## Learning Outcomes
+- Setup, expand, maintain and repair a computing environment for scientific programming
+- Use a programming language to carry out a tasks including data I/O, data reduction/wrangling, data analysis, and automation
+- Demonstrate how to add, remove and edit shared software using a version control platform
+- Describe key properties of and create effective visualizations to convey data and communicate scientific findings
+- Describe effective practices of identifying needs of key stakeholders of a scientific software platform
+- Design a piece of scientific software that addresses key stakeholders need
+- List and describe important steps and practices of an agile scientific software development approach
