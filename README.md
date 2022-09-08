@@ -9,6 +9,8 @@ Skills to acquire include linux computing environment, version control using git
 ## Instructor
 This course is taught by proffesor [Alejandro Flores](https://www.boisestate.edu/earth/staff-members/alejandro-n-flores/) of the Dept. of Geoscience, Boise State University.
 
+Email: [lejoflores@boisestate.edu](mailto:lejoflores@boisestate.edu)
+
 ## Course Structure
 The class is divided into two units. The first unit is approximately 5 weeks in duration and the second unit is about 10 weeks in duration. 
 
